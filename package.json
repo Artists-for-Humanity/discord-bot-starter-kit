@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot-starter-kit",
+  "version": "1.0.0",
+  "description": "## Setting Up a Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artists-for-Humanity/discord-bot-starter-kit.git"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.7"
+  },
+  "dependencies": {
+    "discord.js": "12.5.1",
+    "dotenv": "8.2.0"
+  }
+}

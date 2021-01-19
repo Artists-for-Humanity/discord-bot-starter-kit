@@ -12,7 +12,7 @@ If you prefer a video tutorial [this video](https://www.youtube.com/watch?v=ibtX
 1. Give it a username. This will appear in Discord.
 1. Navigate to the OAuth page. You should see a link on the left hand side.
 1. Select the bot checkbox in the Scopes section.
-1. Select the bot permissions you think you will need. **Do not just select administrator**. If you don't knowy you can start off with just "Send Messages".
+1. Select the bot permissions you think you will need. **Do not just select administrator**. If you don't know what permissions you will need you can start off with just "Send Messages".
 1. Copy the link and send to Stephen.
 
 ## Getting Started
