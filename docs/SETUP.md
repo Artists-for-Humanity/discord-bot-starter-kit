@@ -4,7 +4,7 @@ If you prefer a video tutorial [this video](https://www.youtube.com/watch?v=ibtX
 
 1. Go to the [Discord developer portal](https://discord.com/developers/applications).
 1. Click the New Application button.
-1. Name your application. This is different than the name of your bot. If the bot has a specific use name it something related to that.
+1. Name your application. This is different than the name of your bot. You can put your name and then Application, so `Stephen's Application`.
 1. Navigate to the Bot page. You should see a link on the left hand side.
 1. Click Add Bot.
 1. Give it a username. This will appear in Discord.

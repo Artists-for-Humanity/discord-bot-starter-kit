@@ -2,7 +2,7 @@
 
 This repository contains code in order to set up a very basic Discord bot. Use it as a starting point and let your ideas flow!
 
-## Getting Started
+## Installation & Getting Started
 
 You can find the instructions on the [getting started page](docs/README.md).
 
