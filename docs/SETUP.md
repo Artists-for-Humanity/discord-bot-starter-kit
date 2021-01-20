@@ -12,3 +12,5 @@ If you prefer a video tutorial [this video](https://www.youtube.com/watch?v=ibtX
 1. Select the bot checkbox in the Scopes section.
 1. Select the bot permissions you think you will need. **Do not just select administrator**. If you don't know what permissions you will need you can start off with just "Send Messages".
 1. Copy the link and send to Stephen.
+
+Once you have your bot setup you can go ahead and [set up the app](START.md).
