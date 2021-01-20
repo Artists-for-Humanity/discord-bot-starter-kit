@@ -8,6 +8,10 @@ You can find the instructions on the [getting started page](docs/README.md).
 
 ## Ideas
 
+### Have the bot collect answers to a question
+
+Look at the [code on this site](https://anidiots.guide/examples/miscellaneous-examples#awaitmessages) to learn how to make your bot await answers to a question.
+
 ### Post a GIF.
 
 [Follow this video tutorial](https://www.youtube.com/watch?v=9P1rB2MY4ZA) and learn how to make your bot post Gifs.
