@@ -16,7 +16,10 @@ if (!process.env.CHANNEL_ID) {
   END: You can ignore this
 */
 
-const { Client, MessageEmbed } = require("discord.js");
+const {
+  Client,
+  MessageEmbed
+} = require("discord.js");
 
 const client = new Client();
 const CHANNEL_ID = process.env.CHANNEL_ID;
@@ -36,5 +39,7 @@ function readyDiscord() {
 function messageRecieved(message) {
   if (message.channel.id == CHANNEL_ID) {
     console.log(`Message Received: ${message.content}`);
+    message.channel.send("Message goes here");
+    if (message.content.startsWith("10/1 something")) {}
   }
 }
